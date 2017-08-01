@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  height: 100px;
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.searchBox {
+  padding: 4px 0;
+  margin: 0 1rem;
+  width: 256px;
+}
+
+.randomNumber {
+  padding: 0 16px;
+}

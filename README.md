@@ -1,0 +1,1 @@
+This is just a test project to show how redux-search is calling selector every time.
